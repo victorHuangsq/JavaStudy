@@ -24,3 +24,4 @@ public class Rectangle{
 		}
 	}
 }
+git@github.com:victorHuangsq/JavaStudy.git
